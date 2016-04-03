@@ -6,5 +6,10 @@ package test;
 public class Test {
     public static void main(String[] args) {
         System.out.print("123");
+
+        String s = "123";
+
     }
+
+
 }
